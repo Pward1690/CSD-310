@@ -1,4 +1,4 @@
-"Parrish Ward // 6-19-21 // Module 5.2 - mongodb_test.py // Test program for connecting to a  MongoDB Atlas cluster"
+#Parrish Ward // 6-19-21 // Module 5.2 - mongodb_test.py // Test program for connecting to a  MongoDB Atlas cluster
 
 from pymongo import MongoClient
 
